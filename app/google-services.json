@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877984294526",
+    "project_id": "tsftask1",
+    "storage_bucket": "tsftask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877984294526:android:2e87d0adb22d3ca6f69a2f",
+        "android_client_info": {
+          "package_name": "com.technocrats.tsftask1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877984294526-86gvonljq9p7u900rtg74jdq757kfd9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnVafQPDowAEZX9vmpa1FX5eotkQjEYj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877984294526-86gvonljq9p7u900rtg74jdq757kfd9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
